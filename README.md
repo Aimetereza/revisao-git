@@ -27,6 +27,10 @@ Lista de tarefas a fazer no repositorio:
 - [ ]  Ler a documentação sobre *markdown*
 - [ ]  Ler a documentação do git/github
 ## Referencias
+GI BRANCH -> LISTA AS BRANCHS NO COMPUTADOR
+GIT BRANCH nome_da_nova_branch -> não colocar acento ou ç, e use undescore para os espaços em branco
+git switch nome_da_branch -> muda de branch
+metodo alternativo para o GIT SWITCH: git checkout nome_da_branch
 
 * [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 
